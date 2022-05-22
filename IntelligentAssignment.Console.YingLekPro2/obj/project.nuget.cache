@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "3patlNPI1oen5KzUinq+qmWiFVLMMYgsnM8csl4KXoC47aadmGxb3dB0ZmfU07WsCRIxbHpK252lXZc3Y7k95Q==",
+  "success": true,
+  "projectFilePath": "D:\\DevApp\\IntelligentAsignment.Service\\IntelligentAssignment.Console.YingLekPro2\\IntelligentAssignment.Console.YingLekPro2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eakasak.pib\\.nuget\\packages\\magick.net-q8-anycpu\\7.9.0\\magick.net-q8-anycpu.7.9.0.nupkg.sha512",
+    "C:\\Users\\eakasak.pib\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\eakasak.pib\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\eakasak.pib\\.nuget\\packages\\noksa.webdriver.screenshotsextensions\\0.1.5.4\\noksa.webdriver.screenshotsextensions.0.1.5.4.nupkg.sha512",
+    "C:\\Users\\eakasak.pib\\.nuget\\packages\\restsharp\\107.3.0\\restsharp.107.3.0.nupkg.sha512",
+    "C:\\Users\\eakasak.pib\\.nuget\\packages\\selenium.support\\3.8.0\\selenium.support.3.8.0.nupkg.sha512",
+    "C:\\Users\\eakasak.pib\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\eakasak.pib\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\eakasak.pib\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
